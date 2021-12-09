@@ -1,0 +1,27 @@
+{
+  "name": "servernode",
+  "version": "1.0.0",
+  "description": "Tarea",
+  "main": "api.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "modules": "^0.4.0",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walterfer33/ServerNode.git"
+  },
+  "author": "Walter Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walterfer33/ServerNode/issues"
+  },
+  "homepage": "https://github.com/walterfer33/ServerNode#readme"
+}
